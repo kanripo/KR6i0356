@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 相續解脫地波羅蜜了義經
+#+DATE: 2015-08-30 20:17:13.285892
+#+PROPERTY: JUAN 0
